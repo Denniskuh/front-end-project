@@ -9,24 +9,32 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <link rel="stylesheet" href="styling.css">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 
     <title>FRONT END PROJECT</title>
 </head>
 <body>
 
     <section id="g">
-        <div class="gallery">
+        <div class="opening-anim" data-aos="zoom-out">
             <div id="ta"></div>
         </div>
     </section>
 
     <section id="c">
-        <div class="content">
-            
+        <div class="content" data-aos="fade-up" data-aos-anchor-placement="center-bottom">
+
         </div>
     </section>
 
     <script src="src/scripts/Lottie/lottie.js"></script>
     <script src="src/scripts/Lottie/index.js"></script>
+    <script src="src/scripts/parralax/parralax.js"></script>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+
+    <script>
+        AOS.init();
+    </script>
+
 </body>
 </html>
