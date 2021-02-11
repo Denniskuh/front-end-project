@@ -1,3 +1,6 @@
+<?php
+
+?>
 <!DOCTYPE html>
 <html lang="nl">
 <head>
@@ -10,6 +13,11 @@
     <title>FRONT END PROJECT</title>
 </head>
 <body>
-    <h1>Hello World!</h1>
+
+    <div class="container">
+        <h1>Hello World!</h1>
+        <p>This is my site :)</p>
+    </div>
+
 </body>
 </html>
