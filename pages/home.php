@@ -14,10 +14,11 @@
 </head>
 <body>
 
-    <div class="container">
-        <h1>Hello World!</h1>
-        <p>This is my site :)</p>
-    </div>
+    <section id="container">
+        <div class="container">
+            <h1>Hello World!</h1>
+        </div>
+    </section>
 
 </body>
 </html>
