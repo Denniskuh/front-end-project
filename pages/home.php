@@ -26,7 +26,6 @@
             <h1>
                 <span>You want to hear a story?</span>
             </h1>
-                    
         </div>
     </section>
 
