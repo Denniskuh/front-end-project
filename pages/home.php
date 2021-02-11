@@ -23,13 +23,18 @@
 
     <section id="c">
         <div class="content" data-aos="fade-up" data-aos-anchor-placement="center-bottom">
-            <h1>Hello! How are you?</h1>
+            <h1>
+                <span>Hello! How are you?</span>
+            </h1>
+                    
         </div>
+        <img src="src/images/meme.png" alt="meme" height="400px"> 
     </section>
 
     <script src="src/scripts/Lottie/lottie.js"></script>
     <script src="src/scripts/Lottie/index.js"></script>
     <script src="src/scripts/parralax/parralax.js"></script>
+    <script src="src/scripts/animated-line-question/animated-line-question.js"></script>
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 
     <script>
