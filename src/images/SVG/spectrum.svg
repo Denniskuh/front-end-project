@@ -4,8 +4,6 @@
 	 viewBox="0 0 160 20" style="enable-background:new 0 0 160 20;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#05445E;}
-	.st1{fill:#D4F1F4;}
 </style>
-<rect x="80" class="st0" width="80" height="20"/>
-<rect class="st1" width="80" height="20"/>
+<rect class="st0" width="80" height="20"/>
 </svg>

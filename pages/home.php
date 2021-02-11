@@ -24,11 +24,10 @@
     <section id="c">
         <div class="content" data-aos="fade-up" data-aos-anchor-placement="center-bottom">
             <h1>
-                <span>Hello! How are you?</span>
+                <span>You want to hear a story?</span>
             </h1>
                     
         </div>
-        <img src="src/images/meme.png" alt="meme" height="400px"> 
     </section>
 
     <script src="src/scripts/Lottie/lottie.js"></script>

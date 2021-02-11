@@ -2,16 +2,16 @@
 .content{
     h1{
         color: $font-family-color-white;
-        font-family: $font-family-pacifico;
+        font-family: $font-family-fredoka-one;
         font-size: $font-size-content-h1;
         font-weight: $font-weight-content-h1;
-        margin: 0;                
+        margin: 150px;                    
         span {
             background-image: url("/src/images/SVG/spectrum.svg");
-            background-repeat: repeat;
+            background-repeat: no-repeat;
             background-size: cover;            
             background-position-x: var(--scrollPos);
-            padding: 150px;
+            padding: 100px;
         }
     }    
 }
