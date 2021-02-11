@@ -1,6 +1,6 @@
 {
     "version": 3,
-    "mappings": "AKAA,OAAO,CAAC,mEAAI,CACZ,OAAO,CAAC,yEAAI,CEAZ,AACI,UADM,CACN,EAAE,AAAA,CACE,WAAW,CFCQ,cAAc,CAAE,OAAO,CEA1C,WAAW,CFGQ,IAAI,CEFvB,SAAS,CFCQ,IAAI,CEArB,KAAK,CHLa,IAAI,CGMtB,MAAM,CAAE,CAAC,CACT,QAAQ,CAAE,QAAQ,CAClB,SAAS,CAAE,qBAAqB,CAChC,GAAG,CAAE,GAAG,CACR,IAAI,CAAE,GAAG,CACZ,AEXL,AAAA,UAAU,AAAA,CACN,QAAQ,CAAE,QAAQ,CAClB,UAAU,CAAE,MAAM,CAClB,gBAAgB,CLCS,OAAiB,CKA1C,MAAM,CNJS,KAAK,CMKpB,KAAK,CNJS,KAAK,CMKtB,AGPD,AAAA,IAAI,AAAA,CACA,MAAM,CAAE,CAAC,CACT,UAAU,CAAE,UAAU,CACzB",
+    "mappings": "AKAA,OAAO,CAAC,mEAAI,CACZ,OAAO,CAAC,yEAAI,CGDZ,AAAA,QAAQ,AAAA,CACJ,gBAAgB,CJGO,IAAkB,CIFzC,OAAO,CAAE,OAAO,CACnB,ACHD,AAAA,QAAQ,AAAA,CACJ,MAAM,CNAO,KAAK,CMClB,KAAK,CNAO,KAAK,CMCjB,gBAAgB,CLGO,OAAO,CKFjC,AGJD,AAAA,CAAC,AAAA,CACG,MAAM,CAAE,CAAC,CACT,UAAU,CAAE,UAAU,CACtB,WAAW,CPAM,QAAQ,CAAE,OAAO,COCrC",
     "sources": [
         "styling.scss",
         "src/ui/01_fundaments/_fundaments.scss",
@@ -9,9 +9,9 @@
         "src/ui/01_fundaments/Colors/_colors.scss",
         "src/ui/01_fundaments/Fonts/_fonts.scss",
         "src/ui/02_atoms/_atoms.scss",
-        "src/ui/02_atoms/Main-Title/_main-title.scss",
         "src/ui/03_molecules/_molecules.scss",
-        "src/ui/03_molecules/Container/_container.scss",
+        "src/ui/03_molecules/Gallery/_gallery.scss",
+        "src/ui/03_molecules/Content/_content.scss",
         "src/ui/04_organism/_organism.scss",
         "src/ui/05_pages/_pages.scss",
         "src/ui/05_pages/General/_general.scss"

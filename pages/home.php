@@ -14,10 +14,15 @@
 </head>
 <body>
 
-    <section id="c">
-        <div class="container">
+    <section id="g">
+        <div class="gallery">
             <div id="ta"></div>
-            <h1>nice ;)</h1>
+        </div>
+    </section>
+
+    <section id="c">
+        <div class="content">
+            
         </div>
     </section>
 
