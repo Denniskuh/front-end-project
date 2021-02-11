@@ -3,5 +3,5 @@ var animation = lottie.loadAnimation({
   renderer: 'svg',
   loop: true,
   autoplay: true,
-  path: 'src/scripts/Lottie/container-title/titleAnim.json' // the path to the animation json
+  path: 'src/ui/01_fundaments/Animations/container-title/titleAnim.json' // the path to the animation json
 });
