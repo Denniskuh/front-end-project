@@ -1,8 +1,17 @@
 {
     "version": 3,
-    "mappings": "",
+    "mappings": "AKAA,OAAO,CAAC,mEAAI,CACZ,OAAO,CAAC,yEAAI",
     "sources": [
-        "styling.scss"
+        "styling.scss",
+        "src/ui/01_fundaments/_fundaments.scss",
+        "src/ui/01_fundaments/Animations/_animations.scss",
+        "src/ui/01_fundaments/Boxing/_boxing.scss",
+        "src/ui/01_fundaments/Colors/_colors.scss",
+        "src/ui/01_fundaments/Fonts/_fonts.scss",
+        "src/ui/02_atoms/_atoms.scss",
+        "src/ui/03_molecules/_molecules.scss",
+        "src/ui/04_organism/_organism.scss",
+        "src/ui/05_pages/_pages.scss"
     ],
     "names": [],
     "file": "styling.css"
