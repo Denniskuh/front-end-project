@@ -21,7 +21,7 @@
         </div>
     </section>
 
-    <section id="c">
+    <section class="c">
         <div class="content" data-aos="fade-up" data-aos-anchor-placement="center-bottom">
             <h1>
                 <span>You want to hear a story?</span>
