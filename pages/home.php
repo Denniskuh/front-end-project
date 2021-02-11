@@ -23,7 +23,7 @@
 
     <section id="c">
         <div class="content" data-aos="fade-up" data-aos-anchor-placement="center-bottom">
-
+            <h1>Hello! How are you?</h1>
         </div>
     </section>
 
