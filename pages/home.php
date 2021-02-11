@@ -32,7 +32,8 @@
     <script src="src/scripts/Lottie/lottie.js"></script>
     <script src="src/scripts/Lottie/index.js"></script>
     <script src="src/scripts/parralax/parralax.js"></script>
-    <script src="src/scripts/animated-line-question/animated-line-question.js"></script>
+    <script type="module" src="src/scripts/animated-line-question/animated-line-question.js"></script>
+    <script type="module" src="src/scripts/section-detection/section-detection.js"></script>
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 
     <script>
